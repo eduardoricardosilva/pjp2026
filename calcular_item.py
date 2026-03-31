@@ -7,4 +7,4 @@ def calcular_item(preco_unitario,quantidade):
     return totimposto
     
 valor_total = calcular_item(valor_item,quant)
-print(f"O valor total com iimposto é {valor_total}")
+print(f"O valor total com imposto é {valor_total}")
